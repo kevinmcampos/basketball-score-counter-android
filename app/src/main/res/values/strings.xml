@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basketball Score Counter</string>
+    <string name="team_chicago_bulls">Chicago Bulls</string>
+    <string name="action_add_1_point">+1 POINT</string>
+    <string name="action_add_2_points">+2 POINT</string>
+    <string name="action_add_3_points">+3 POINT</string>
+    <string name="action_reset_score">RESET</string>
+</resources>
